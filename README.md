@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bSiddique
 - 👀 interested in Machine Learning & Web Developing
 - 🌱 currently learning Java Script
-- 📫 Reach me on facebook ( https://www.facebook.com/suzan.siddique )
+- 📫 Reach me on Facebook ( https://www.facebook.com/suzan.siddique ) or Instgram ( b.siddique_ )
